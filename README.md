@@ -16,3 +16,4 @@ I created this website so that users who watch it don't have to worry about thei
 2. This website is only using Indonesian language.
 3. This website is written by [@emonnaja](https://github.com/emonnaja) himself without the help of anyone, maybe you will find some bugs when accessing it.
 4. This website is deployed on vercel with free version tier, maybe sometimes you cannot accessing this web because overload.
+5. Starting from March 22, 2025 STREAMO source code is closed. However, in the future, STREAMO will change its API type to public, which means that all websites can use STREAMO's resources.
