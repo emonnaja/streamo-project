@@ -5,6 +5,9 @@ STREAMO is a unofficial website where you can watch movies, anime, tv series, dr
 
 I created this website so that users who watch it don't have to worry about their identity being accessed by irresponsible people, you can watch all the content on this site without logging in and paying anything.
 
+> [!WARNING]
+> CDN service is currently unavailable as it has reached the specified limit and I have not made the payment due to insufficient money required, you cannot watch content on STREAMO until this notice is removed. However, you can still use STREAMO's API service.
+
 # Feature
 1. You can watch content without login or connect your other account to our service.
 2. The content provided is already on a Content Delivery Network, which means there will be no interruptions while you watch the content unless your internet quota runs out.
