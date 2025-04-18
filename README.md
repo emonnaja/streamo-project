@@ -21,7 +21,5 @@ I created this website so that users who watch it don't have to worry about thei
 
 # Last Updates
 Updated changes on April 16, 2025
-Version 1.1.1
-1. All video has been encrypted.
-2. Change navbar ui.
-3. Solving some error on some API source response.
+Version 1.1.2
+1. update API authentication
