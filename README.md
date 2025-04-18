@@ -20,6 +20,6 @@ I created this website so that users who watch it don't have to worry about thei
 6. You can only watch the content and cannot download it, I highly recommend visiting other websites if you want to download videos.
 
 # Last Updates
-Updated changes on April 16, 2025
+Updated changes on April 18, 2025
 Version 1.1.2
 1. update API authentication
