@@ -5,9 +5,6 @@ STREAMO is a unofficial website where you can watch movies, anime, tv series, dr
 
 I created this website so that users who watch it don't have to worry about their identity being accessed by irresponsible people, you can watch all the content on this site without logging in and paying anything.
 
-> [!WARNING]
-> I have just discovered a security issue with this project and am currently fixing it, I highly recommend that you do NOT visit STERAMO website until this notice is gone.
-
 # Feature
 1. You can watch content without login or connect your other account to our service.
 2. The content provided is already on a Content Delivery Network, which means there will be no interruptions while you watch the content unless your internet quota runs out.
