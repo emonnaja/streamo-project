@@ -20,6 +20,11 @@ I created this website so that users who watch it don't have to worry about thei
 6. You can only watch the content and cannot download it, I highly recommend visiting other websites if you want to download videos.
 
 # Last Updates
-Updated changes on April 18, 2025
-Version 1.1.2
-1. update API authentication
+Updated changes on May 22, 2025
+Version 1.2.0
+1. Update session management.
+2. Solving episode list error.
+3. Solving metadata error.
+4. OTP feature has been disabled.
+5. Restructuring API.
+6. Update CDN information.
