@@ -7,9 +7,7 @@ I created this website so that users who watch it don't have to worry about thei
 
 # Feature
 1. You can watch content without login or connect your other account to our service.
-2. The content provided is already on a Content Delivery Network, which means there will be no interruptions while you watch the content unless your internet quota runs out.
 3. You can stream content up to 4K resolution.
-4. Some content is Dolby Atmos supported.
 
 # Notes
 1. Some content only available with Indonesian sub.
@@ -17,7 +15,6 @@ I created this website so that users who watch it don't have to worry about thei
 3. This website is written by [@emonnaja](https://github.com/emonnaja) himself without the help of anyone, maybe you will find some bugs when accessing it.
 4. This website is deployed on [Vercel](https://vercel.com/) and other service with Hobby version tier, maybe sometimes you cannot accessing this web because demand exceeds the bandwidth provided.
 5. Starting from March 22, 2025 STREAMO source code is closed.
-6. You can only watch the content and cannot download it, I highly recommend visiting other websites if you want to download videos.
 
 # Last Updates
 Updated changes on May 22, 2025
