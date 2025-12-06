@@ -15,11 +15,3 @@ I created this website so that users who watch it don't have to worry about thei
 3. This website is written by [@emonnaja](https://github.com/emonnaja) himself without the help of anyone, maybe you will find some bugs when accessing it.
 4. This website is deployed on [Vercel](https://vercel.com/) and other service with Hobby version tier, maybe sometimes you cannot accessing this web because demand exceeds the bandwidth provided.
 5. Starting from March 22, 2025 STREAMO source code is closed.
-
-
-## Stay Connected to my Project
-Be the first to know about all my projects on my [Telegram Channel](https://t.me/emonnprjkt).
-
-and
-
-Discuss with others about my projects [here](https://t.me/+sl-jjUJISchkYzM1)
